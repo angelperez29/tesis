@@ -13,3 +13,4 @@ xlrd==2.0.1
 nltk==3.6.2
 selenium==3.141.0
 webdriver-manager==3.4.2
+pymongo==3.11.4
